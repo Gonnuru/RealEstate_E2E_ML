@@ -6,7 +6,7 @@
 
 > Deployed on Amazon Ec2 Instance
 
-![GitHub All Releases](https://img.shields.io/github/downloads/Gonnuru/RealEstate_E2E_ML/total?color=%23%2300FF00&logo=GitHub) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Gonnuru/RealEstate_E2E_ML?include_prereleases) ![GitHub repo size](https://img.shields.io/github/repo-size/Gonnuru/RealEstate_E2E_ML) ![GitHub last commit](https://img.shields.io/github/last-commit/Gonnuru/RealEstate_E2E_ML) ![GitHub](https://img.shields.io/github/license/Gonnuru/RealEstate_E2E_ML)
+![GitHub All Releases](https://img.shields.io/github/downloads/Gonnuru/RealEstate_E2E_ML/total?color=%23%2300FF00&logo=GitHub) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Gonnuru/RealEstate_E2E_ML?include_prereleases) ![GitHub repo size](https://img.shields.io/github/repo-size/Gonnuru/RealEstate_E2E_ML) ![GitHub last commit](https://img.shields.io/github/last-commit/Gonnuru/RealEstate_E2E_ML) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 
 **Demo**
