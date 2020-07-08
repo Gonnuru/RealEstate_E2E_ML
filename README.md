@@ -1,4 +1,4 @@
-![businessman-looking-through-telescope-at-graph-concept-business](https://user-images.githubusercontent.com/28786206/86876609-1a3b6300-c0b3-11ea-8d79-15c47930f552.jpg)
+![](https://user-images.githubusercontent.com/28786206/86877112-27a51d00-c0b4-11ea-814c-a0825154c05a.jpg)
 
 # Real Estate Price Estimation
 
