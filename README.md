@@ -1,5 +1,5 @@
 <p align="center">
-	![](https://user-images.githubusercontent.com/28786206/86877112-27a51d00-c0b4-11ea-814c-a0825154c05a.jpg)
+	<img src="https://user-images.githubusercontent.com/28786206/86877112-27a51d00-c0b4-11ea-814c-a0825154c05a.jpg">
 </p>
 
 # Real Estate Price Estimation
