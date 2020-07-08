@@ -1,4 +1,4 @@
-![](https://github.com/Gonnuru/RealEstate_E2E_ML/blob/master/screenshots/application.jpg)
+
 
 # Real Estate Price Estimation
 
