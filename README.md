@@ -128,7 +128,7 @@ Running last command above will prompt that server is running on port 5000.
 ## Support
 
 Reach out to me at 
-- Linkedin at <a href="https://twitter.com/GonnuruSampath" target="_blank">`Twitter`</a>
+- Twitter at <a href="https://twitter.com/GonnuruSampath" target="_blank">`Twitter`</a>
 
 ---
 
